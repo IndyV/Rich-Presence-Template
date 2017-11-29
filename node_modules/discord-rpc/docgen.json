@@ -1,0 +1,12 @@
+[
+  {
+    "name": "General",
+    "files": [
+      {
+        "path": "../README.md",
+        "name": "Welcome",
+        "id": "welcome"
+      }
+    ]
+  }
+]

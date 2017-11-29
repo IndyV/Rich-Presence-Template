@@ -1,0 +1,20 @@
+{
+    "Client_Id": "385188316523266052",
+
+    "Rich_Presence":{
+        "details": "Creating a RPC repo",
+        "state": "Coding",
+        "username": "Indy",
+        "file_username": "indyprofile",
+        "bannername": "Rich Presence",
+        "file_bannername": "background",
+        "maxpartysize": 100,
+        "countdown_start": 3600,
+        "Refresh": true,
+        "Refresh_time": 15
+    },
+    
+    "Dont_Touch":{
+        "updatecounter": 0
+    }
+}
